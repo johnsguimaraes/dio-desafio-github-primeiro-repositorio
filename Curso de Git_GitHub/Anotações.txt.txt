@@ -1,0 +1,3 @@
+Ordem para push:
+1º - Gerar o init
+2º - 
